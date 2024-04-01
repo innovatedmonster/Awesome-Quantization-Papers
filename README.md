@@ -310,4 +310,7 @@ If you find this repo useful, please consider **★STARing** and feel free to sh
     * [Awesome Model Quantization (GitHub)](https://github.com/htqin/awesome-model-quantization)
     * [Awesome Transformer Attention (GitHub)](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 
+## Others
+[知乎量化论文1](https://zhuanlan.zhihu.com/p/444470118)
+
 

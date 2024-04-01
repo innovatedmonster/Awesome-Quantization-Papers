@@ -5739,8 +5739,6 @@ Please search using the [cvs file](https://github.com/Zhen-Dong/Awesome-Quantiza
 [Awesome-Deep-Neural-Network-Compression](https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression/blob/master/Paper/Quantization.md) \
 [awesome-model-quantization](https://github.com/htqin/awesome-model-quantization#awesome-model-quantization-) 
 
-## Others
-[知乎量化论文1](https://zhuanlan.zhihu.com/p/444470118)
 
 ## LICENSE
 THIS SOFTWARE WAS DEPOSITED IN THE BAIR OPEN RESEARCH COMMONS REPOSITORY ON FEB 1, 2023.
